@@ -1,6 +1,6 @@
 import React from "react";
 import {v4 as uuid} from "uuid";
-import { DotColorsEnum, TextColor, TimeLineItemPosition, TimeLineItemTimePositionEnum } from "../types/TimeLineTypes";
+import { DotColorsEnum, TextColor, TimeLineItemPosition, TimeLineItemTimePositionEnum } from "./TimeLineTypes";
 
 
 export enum LineEventLineTypeEnum  {

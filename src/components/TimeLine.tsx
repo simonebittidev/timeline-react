@@ -14,7 +14,7 @@ export class TimeLine extends React.Component<TimeLineProps, {}> {
                             <span className="label">Start</span>
                             </div>
                             {
-                                this.props.events.map((event, index) => {
+                                this.props.events.map((event) => {
                                     return event
                                 })
                             }

@@ -1,5 +1,5 @@
 import React from "react";
-import { DotColorsEnum, TextColor, TimeLineItemPosition, TimeLineItemTimePositionEnum } from "../types/TimeLineTypes";
+import { DotColorsEnum, TextColor, TimeLineItemPosition, TimeLineItemTimePositionEnum } from "./TimeLineTypes";
 
 export interface WidgetEventProps {
     position: TimeLineItemPosition
